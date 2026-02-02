@@ -1,0 +1,7 @@
+status = "Ongoing"
+type = "Issue"
+start_date = 2026-02-02T14:09:00
+end_date =
+scope = "Compute nodes"
+impact = "New and pending jobs will remain queued and not run on Cirrus until the issue is resolved."
+reason = "There's an ongoing issue with the cooling pump, which is being actively investigated."
