@@ -1,7 +1,7 @@
-status = "Planned"
+status = "Resolved"
 type = "Service Alert"
 start_date = 2026-02-10T09:00:00
-end_date = 2026-02-10T10:00:00
+end_date = 2026-02-10T10:37:00
 scope = "Cirrus service power"
 impact = "Very low risk of loss of power to login nodes, management nodes, file systems."
 reason = "Test of on-site generator."
