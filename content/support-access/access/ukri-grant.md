@@ -8,7 +8,9 @@ You can include Cirrus on UKRI funding applications when you are applying for fu
 
 ## Resource Available
 
-We would normally expect Grant/Fellowship Access applications to be around 500,000 - 20,000,000 coreh per annum but we do have larger projects than this. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have larger requirements.
+Any reasonable resource request is possible on Cirrus. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have concerns or questions about the amount of resource you wish to apply for.
+
+For reference, there are around 133,000,000 coreh available on Cirrus per month.
 
 ## Application procedure
 
