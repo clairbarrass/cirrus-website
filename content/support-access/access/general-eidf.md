@@ -9,9 +9,9 @@ Any academic researcher can get access to Cirrus via the
 
 ## Resources available
 
-This access route is flexible in terms of the amount of resource that can be applied for. For 12 months
-of access projects have typically requested 500,000 -- 3,000,000 coreh and storage of 100 -- 100,000 GiB
-but larger projects are possible and smaller projects can gain Cirrus access via this route too.
+This access route is flexible in terms of the amount of resource that can be applied for. Any
+reasonable request can be supported. For reference, there is a total of around 133,000,000 coreh
+available on Cirrus each month.
 
 In the list of resources available on the EIDF list, the following are relevant to Cirrus:
 

@@ -10,7 +10,7 @@ You can include Cirrus on UKRI funding applications when you are applying for fu
 
 Any reasonable resource request is possible on Cirrus. Please contact the [Cirrus Service Desk](../../user-support/) to discuss if you have concerns or questions about the amount of resource you wish to apply for.
 
-For reference, there are around 133,000,000 coreh available on Cirrus per month.
+For reference, there is a total of around 133,000,000 coreh available on Cirrus per month.
 
 ## Application procedure
 
